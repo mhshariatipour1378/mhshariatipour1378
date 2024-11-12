@@ -34,6 +34,7 @@ Here are some ideas to get you started:
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>🔗 Website</b></td>
     </tr>
   </thead>
   <tbody>
@@ -43,6 +44,7 @@ Here are some ideas to get you started:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mhshariatipour1378/Avatars-Placeholder?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mhshariatipour1378/Avatars-Placeholder?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mhshariatipour1378/Avatars-Placeholder?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://avatar-placeholder.iran.liara.run"><b>Aavatar Placeholder</b></a></td>
     </tr>
   </tbody>
 </table>
