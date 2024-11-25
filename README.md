@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr border: none;> 
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
